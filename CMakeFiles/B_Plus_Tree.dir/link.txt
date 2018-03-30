@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/B_Plus_Tree.dir/BPlusTree.cpp.o CMakeFiles/B_Plus_Tree.dir/Test.cpp.o CMakeFiles/B_Plus_Tree.dir/main.cpp.o  -o B_Plus_Tree 

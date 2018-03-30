@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/BPlusTree.cpp
+BPlusTree.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/BPlusTree.hpp
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/BPlusTree.hpp
+iostream
+-
+memory
+-
+string
+-
+vector
+-
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/Test.cpp
+Test.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/Test.hpp
+BPlusTree.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/BPlusTree.hpp
+vector
+-
+string
+-
+iostream
+-
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/Test.hpp
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/main.cpp
+iostream
+-
+Test.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/B_Plus_Tree/Test.hpp
+
